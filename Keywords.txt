@@ -1,0 +1,16 @@
+openbrowser
+navigate
+click
+type
+select
+getText
+
+validation keywords
+validateTitle
+validateText
+validateElementPresent
+
+Application Dependent Keywords
+login
+selectDateFromCalender
+verifyStockAdded
