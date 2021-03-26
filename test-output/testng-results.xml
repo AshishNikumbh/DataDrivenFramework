@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13284" started-at="2021-03-26T11:25:48Z" finished-at="2021-03-26T11:26:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13284" started-at="2021-03-26T11:25:48Z" finished-at="2021-03-26T11:26:02Z">
+      <class name="TestCases.CreatePortfolioTest">
+        <test-method status="PASS" signature="createPortfolioTest()[pri:0, instance:TestCases.CreatePortfolioTest@59f99ea]" name="createPortfolioTest" duration-ms="13234" started-at="2021-03-26T11:25:48Z" finished-at="2021-03-26T11:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPortfolioTest -->
+      </class> <!-- TestCases.CreatePortfolioTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
